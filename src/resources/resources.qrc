@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/text">
+        <file alias="about">text/about.html</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file alias="empty">img/empty.png</file>
+        <file alias="o">img/o.png</file>
+        <file alias="x">img/x.png</file>
+        <file alias="logo">img/logo.png</file>
+    </qresource>
+</RCC>
